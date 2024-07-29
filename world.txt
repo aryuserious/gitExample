@@ -4,3 +4,10 @@ My name is John Doe!
 I like to eat chocolate ice cream!
 My age is
 I have [number of pets] pets
+
+Oh hi!
+
+My name is Egsam Pull!
+I like to ride my bike around town!
+My age is 76
+I have 14 pets

@@ -1,4 +1,4 @@
 Hello there!
 
-My name is John Doe
-I like to eat ice cream
+My name is John Doe!
+I like to eat ice cream!

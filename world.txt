@@ -1,6 +1,6 @@
 Hello there!
 
-My name is
-I like to
+My name is John Doe!
+I like to eat chocolate ice cream!
 My age is
 I have [number of pets] pets
